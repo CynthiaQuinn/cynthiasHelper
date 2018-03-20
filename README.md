@@ -1,0 +1,2 @@
+# cynthiasHelper
+Discord bot WIP
